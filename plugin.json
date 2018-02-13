@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "name": "La Redoute",
+  "marketplaceName": "La Redoute",
   "description": "Um La Redoute in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei La Redoute nötig.",
   "namespace": "MultiChannelLaRedoute",
   "pluginIcon": "icon_plugin_xs.png",
