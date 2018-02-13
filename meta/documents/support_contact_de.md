@@ -1,11 +1,11 @@
-## Web page
+## Webseite
  
 https://www.plentymarkets.eu/
  
-## Email
+## E-Mail
  
 support@plentymarkets.com
 
-## Manual
+## Handbcuh
 
-<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/amazon/amazon-einrichten#4550" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/laredoute" target="_blank">Knowledge</a>
