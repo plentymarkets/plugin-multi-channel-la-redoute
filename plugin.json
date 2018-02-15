@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "LaRedoute",
   "marketplaceName": "La Redoute",
   "description": "Um La Redoute in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei La Redoute nötig.",
@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz La Redoute ist in plentymarkets 7 bereits integriert. Um La Redoute in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei La Redoute nötig.",
-    "en": "La Redoute is already integrated into your plentymarkets 7 system. A La Redoute seller account is mandatory for setting up La Redoute in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes La Redoute wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf La Redoute zu listen. Die Schnittstelle zu La Redoute ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace La Redoute enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on La Redoute. The interface to La Redoute is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
